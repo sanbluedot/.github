@@ -8,7 +8,7 @@
 
 **interactive web · AI builder · research**
 
-📍 Daule, Ecuador 🇪🇨 · 🌐 [Portfolio](https://sandy-sysdev-v2.web.app) · 💼 [LinkedIn](https://www.linkedin.com/in/sandy-e-q-30171254)
+📍 Ecuador 🇪🇨 · 🌐 [Portfolio](https://sandy-sysdev-v2.web.app) · 💼 [LinkedIn](https://www.linkedin.com/in/sandy-e-q-30171254)
 
 </div>
 
