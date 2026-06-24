@@ -1,0 +1,9 @@
+# Archivos personales / locales — NUNCA se publican
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+node_modules/
+.claude/settings.local.json
+.vscode/
