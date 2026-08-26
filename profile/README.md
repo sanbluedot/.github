@@ -1,40 +1,34 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sanbluedot/.github/main/profile/sanblue-logo.png" width="170" alt="sanbluedot" />
+<img src="https://raw.githubusercontent.com/sanbluedot/.github/main/profile/sanblue-logo.png" width="170" alt="sanbluedot color badge" />
 
 # sanblue<sup>dot</sup>
 
-### 🌱 retro dev-station
+### retro dev-station
 
-**interactive web · AI builder · research**
+**interactive web · AI-assisted building · independent research**
 
-📍 Ecuador 🇪🇨 · 🌐 [Portfolio](https://sandy-sysdev-v2.web.app) · 💼 [LinkedIn](https://www.linkedin.com/in/sandy-e-q-30171254)
+📍 Ecuador 🇪🇨 · 🌐 [Portfolio](https://sanbluedot.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sandy-e-q-30171254)
 
 </div>
 
 ---
 
-### 👋 About
+### About
 
-**sanblue<sup>dot</sup>** is the creative dev brand of **Sandy E. Quintero** — where code grows. 🌱
-I build interactive web experiences, retro games, and AI-powered projects.
-AI Builder apprentice · BBA student · based in Ecuador.
+**sanblue<sup>dot</sup>** is the personal research and AI-builder brand of **Sandy E. Quintero**. It brings operations experience into interactive web projects, AI-assisted workflows, product building, and independent research.
 
 ### ✨ Featured work
 
 | Project | What it is |
 |--------|-----------|
-| 🌌 **[claude-portfolio](https://github.com/Artemisa1980/claude-portfolio)** | 3D animated portfolio — Three.js + GSAP |
-| 🤖 **[ai-robot-race](https://github.com/Artemisa1980/ai-robot-race)** | Research book: the USA–China humanoid-robot race |
+| 🌌 **[claude-portfolio](https://github.com/Artemisa1980/claude-portfolio)** | Interactive 3D portfolio — React, Three.js and GSAP |
+| 🤖 **[ai-robot-race](https://github.com/Artemisa1980/ai-robot-race)** | Independent research book on the USA–China humanoid-robot race and its lifecycle cost |
 
-_More projects coming soon._
+### 🛠️ Tools in current projects
 
-### 🛠️ Tech
-
-`React` · `TypeScript` · `Three.js` · `GSAP` · `Tailwind` · `Vite` · `Google Gemini` · `Quarto`
+`React` · `TypeScript` · `Three.js` · `GSAP` · `Tailwind CSS` · `Vite` · `Python fundamentals` · `Google Gemini` · `Quarto`
 
 ---
 
-<div align="center">
-<sub>🌱 <b>sanblue<sup>dot</sup></b> — retro dev-station · Ecuador</sub>
-</div>
+© 2026 Sandy E. Quintero — sanblueᵈᵒᵗ · retro dev-station

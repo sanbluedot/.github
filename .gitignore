@@ -1,4 +1,4 @@
-# Archivos personales / locales — NUNCA se publican
+# Personal and local files — NEVER publish
 .DS_Store
 *.log
 .env
