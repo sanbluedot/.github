@@ -22,7 +22,7 @@
 
 | Project | What it is |
 |--------|-----------|
-| 🌌 **[claude-portfolio](https://github.com/Artemisa1980/claude-portfolio)** | Interactive 3D portfolio — React, Three.js and GSAP |
+| 🌌 **[sanbluedot-portfolio](https://github.com/Artemisa1980/sanbluedot-portfolio)** | Interactive 3D portfolio — React, Three.js and GSAP |
 | 🤖 **[ai-robot-race](https://github.com/Artemisa1980/ai-robot-race)** | Independent research book on the USA–China humanoid-robot race and its lifecycle cost |
 
 ### 🛠️ Tools in current projects
