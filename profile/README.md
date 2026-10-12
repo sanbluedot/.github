@@ -8,7 +8,7 @@
 
 **interactive web · AI-assisted building · independent research**
 
-📍 Ecuador 🇪🇨 · 🌐 [Portfolio](https://sanbluedot.com) · 💼 [LinkedIn](https://www.linkedin.com/in/sandy-e-q-30171254)
+📍 Ecuador 🇪🇨 · 🌐 [Portfolio](https://sanbluedot.com) · 💼 [LinkedIn](www.linkedin.com/in/sandy-e-q-30171254)
 
 </div>
 
